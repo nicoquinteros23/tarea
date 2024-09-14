@@ -1,0 +1,54 @@
+*{ 
+    padding: 0rem;
+    margin: 0rem;
+}
+
+#header{
+   margin: 10px;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#utn{
+    
+    
+    margin: 10px;
+    width: 300px;
+}
+
+
+
+.cajota{
+    margin: 10vh auto;
+    width: 90%;
+    border: 1px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#formulario{
+    font-size: 50px;
+}
+
+
+
+.caja{
+    display: flex;
+    padding: 20px;
+    /* justify-content: center; */
+    /* align-items:center ; */
+    border: solid 1px black;
+}
+
+#cajita{
+    align-items: flex-end;
+    width: 50vw;
+    
+}
+
